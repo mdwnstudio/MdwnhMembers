@@ -6,10 +6,10 @@ Consumed **live at runtime** by:
 
 | Site | Repo | Uses |
 |------|------|------|
-| MdwnhLibrary | `YoussefDOT/MdwnhLibrary` | roster + avatars |
-| MdwnhPoints | `YoussefDOT/MdwnhPoints` | avatars + gender (صحبة الفجر) |
+| MdwnhLibrary | `mdwnstudio/MdwnhLibrary` | roster + avatars |
+| MdwnhPoints | `mdwnstudio/MdwnhPoints` | avatars + gender (صحبة الفجر) |
 | MdwnhYearPrepare | `iioiiioii99909-commits/MdwnhYearPrepare` | roster + avatars + gender |
-| MdwnhCafe | `YoussefDOT/MaqrMdwnh` | Discord-UID → member lookup |
+| MdwnhCafe | `mdwnstudio/MaqrMdwnh` | Discord-UID → member lookup |
 
 ## Consuming it
 
